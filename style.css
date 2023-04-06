@@ -112,7 +112,7 @@ nav .fa{
     display: none;
 }
 
-@media(max-width: 700px){
+@media(max-width: 400px){
     .nav-links ul li{
         display: block;
     }   
@@ -195,7 +195,7 @@ nav .fa{
          text-align: justify;
      }
 
-     @media(max-width: 700px) {
+     @media(max-width: 400px) {
          .row{
              flex-direction: column;
          }
@@ -255,7 +255,7 @@ nav .fa{
          opacity: 1;
          bottom: 50%;
      }
-     @media(max-width: 700px){
+     @media(max-width: 400px){
          .campus p{
              text-align: justify;
          }
@@ -329,7 +329,7 @@ nav .fa{
          color: #f44336;
      }
 
-     @media(max-width: 700px){
+     @media(max-width: 400px){
          .testemonial-col img{
              height: 40px;
              margin-left: 0;
@@ -354,7 +354,7 @@ nav .fa{
          margin-bottom: 40px;
          padding: 0;
      }
-     @media(max-width: 700px){
+     @media(max-width: 400px){
          .cta h1{
              font-size: 24px;
              
@@ -382,7 +382,7 @@ nav .fa{
         .fa-heart-o{
             color: #f44336;
         } 
-        @media(max-width:700px){
+        @media(max-width:400px){
             .footer p{
                 margin-left: 20px;
                 margin-right: 20px;
@@ -516,7 +516,7 @@ nav .fa{
          margin: 10px 0;
      }
 
-     @media(max-width: 700px){
+     @media(max-width: 400px){
          .sub-header h1{
              font-size: 24px;
              position: absolute;
@@ -580,7 +580,7 @@ nav .fa{
          
      }
 
-     @media(max-width: 700px){
+     @media(max-width: 400px){
          .contact-col div{
              margin: auto;
              margin-bottom: 35px;
